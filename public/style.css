@@ -1,0 +1,162 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+    background-color: white;
+}
+#nav{
+    padding: 30px;
+    height: 10px;
+    display: flex;
+    
+    margin: 0px;
+    background-color: black;
+    color:white;
+    list-style:none;
+}
+li{ 
+    float: left;
+    
+} 
+a{
+    display: block;
+    padding: 0 28px;
+    color: #fff;
+    text-decoration: none;
+    text-align: center;
+}
+#nav2{
+    margin: 0px;
+    padding: 0px;
+    height: 40px;
+    line-height: 30px;
+    background-color: rgba(29, 29, 231, 0.767);
+    font-size: 15px;
+    list-style: none;
+    color: white;
+    text-align: center;
+}
+.para{
+    text-align: center;
+    padding: 0px;  
+}
+#phone{
+    font-size: 50px;
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
+
+}
+#blast{
+    font-size: 25px;
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
+}
+#di2,#di3,#div5,#di1{
+    background-color: white;
+}
+.list{ 
+    text-align: center;
+    list-style: none;
+    color: blue;
+    font-size: 20px;
+}
+#di,#div6{
+    background-color: black;
+   
+}
+#phone12{
+    font-size: 50px;
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
+    color: white;
+}
+#year{
+    font-size: 25px;
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
+    color: white;
+}
+#para2{
+    text-align: center;
+    padding: 0px;
+    color: white;
+}
+#div{
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
+    font-size: 30px;
+}
+#card{
+    
+    text-align: center;
+    color: violet;
+}
+#di3{
+    background-color: white;
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
+    color: black;
+    font-size: 20px;
+    display: inline-block;
+}
+#di4{
+    display: inline-block;
+    background-color: black;
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
+    color: white;
+    font-size: 20px;
+}
+span{
+    color: red;
+    font-size: 20px;
+}
+#div5{
+    display: inline-block;
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
+    font-size: 20px;
+    
+}
+#div6{
+    display: inline-block;
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
+    font-size: 20px;
+    color: white;
+}
+#div7{
+    display: inline-block;
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
+    font-size: 20px;
+    background-color: rgb(230, 228, 228);
+}
+#div8{
+    display: inline-block;
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
+    font-size: 20px;
+    color: white;
+    background-color: black;
+}
+table{
+    text-align: left;
+}
+#d2{
+    background-color: rgba(128, 128, 128, 0.089);
+    /* background-color: white; */
+    padding: 100px;
+    margin: 0px;
+}
